@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me (Publications, Teaching and Services)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -78,8 +78,8 @@ IEEE WCNC 2022
 IEEE GLOBECOM 2021 Workshops
 
 
-Journal Reviewer:
-------
+**Journal Reviewer:**
+
 IEEE Transactions on Wireless Communications
 
 IEEE Transactions on Communications
