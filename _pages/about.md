@@ -58,6 +58,12 @@ Publications:
 
 [6] S. Ai, **Yuna Jiang**, S. Zheng, T. Han and X. Ge, "Revenue Analysis of Edge Computing Devices in Blockchain-Based IoT Networks," *2020 International Conference on Wireless Communications and Signal Processing (WCSP)*, 2020, pp. 68-73.
 
+Teaching:
+------
+[1] **Signal and System Analysis**, Nanjing University of Posts and Telecommunications, Lecture-2024/2025.
+
+[2] **Mathematical Experiment**, Nanjing University of Posts and Telecommunications, Lecture-2025.
+
 
 Services:
 ------
