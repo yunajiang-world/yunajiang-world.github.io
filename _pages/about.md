@@ -48,7 +48,7 @@ Publications:
 
 [1]	**Yuna Jiang**, J. Kang , D. Niyato，X. Ge, Z. Xiong, M. Xu, R. Deng, "Joining Edge-Enabled Metaverse Services with Network Externality: A Stackelberg Game Approach,"  *2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, 2023, pp. 571-577.
 
-[2] C. Shi, **Yuna Jiang**(Corresponding Author), D. Gan and S. Li, "Joint Sampling and Transmission Optimization for Wireless Metaverse Services," *2025 IEEE/CIC International Conference on Communications in China (ICCC)*, Shanghai, China, 2025, pp. 1-6.
+[2] C. Shi, **Yuna Jiang** (Corresponding Author), D. Gan and S. Li, "Joint Sampling and Transmission Optimization for Wireless Metaverse Services," *2025 IEEE/CIC International Conference on Communications in China (ICCC)*, Shanghai, China, 2025, pp. 1-6.
 
 [3] S. Ai, **Yuna Jiang**, Q. Li, X. Ge and Ir. Dr. Aduwati Sali, “Scale Law of Spectrum Sharing Networks Based on Blockchain,” *2024 International Wireless Communications and Mobile Computing (IWCMC)*, Ayia Napa, Cyprus, 2024, pp. 786-791.
 
