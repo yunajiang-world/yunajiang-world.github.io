@@ -15,6 +15,7 @@ My research interests include immersive communication, edge computing and wirele
 
 
 Publications:
+======
 Journal papers:
 ======
 [1] Yuna Jiang, J. Ye, L. Zhou, X. Ge, J. Kang and D. Niyato, "Multi-Modal Stream Integrity Transmission Strategy for Multi-User Wireless Metaverse," IEEE Transactions on Communications, vol. 73, no. 9, pp. 7122-7135, Sept. 2025. 
@@ -62,18 +63,26 @@ Services:
 Technical Program Committee:
 ------
 IEEE Globecom 2023
+
 IEEE WCNC 2023
+
 IEEE GLOBECOM 2021 Workshops
+
 IEEE WCNC 2022
 
 
 Journal Reviewer:
 ------
 IEEE Transactions on Wireless Communications
+
 IEEE Transactions on Communications
+
 IEEE Transactions on Mobile Computing
+
 IEEE Transactions on Vehicular Technology
+
 IEEE Wireless Communications Magazine
+
 IEEE Transactions on Network Science and Engineering
 
 
