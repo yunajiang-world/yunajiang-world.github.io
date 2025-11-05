@@ -44,14 +44,20 @@ Journal papers:
 
 
 
-Getting started
+Conference papers:
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[1]	Yuna Jiang, J. Kang , D. Niyato，X. Ge, Z. Xiong, M. Xu, R. Deng, "Joining Edge-Enabled Metaverse Services with Network Externality: A Stackelberg Game Approach,"  2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)，Kyoto, Japan, 2023, pp. 571-577.
+
+[2] C. Shi, Yuna Jiang, D. Gan and S. Li, "Joint Sampling and Transmission Optimization for Wireless Metaverse Services," 2025 IEEE/CIC International Conference on Communications in China (ICCC), Shanghai, China, 2025, pp. 1-6.
+
+[3] S. Ai, Yuna Jiang, Q. Li, X. Ge and Ir. Dr. Aduwati Sali, “Scale Law of Spectrum Sharing Networks Based on Blockchain,” 2024 International Wireless Communications and Mobile Computing (IWCMC), Ayia Napa, Cyprus, 2024, pp. 786-791.
+
+[4] Y. Zhong et al., "Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses," 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT), Guangzhou, China, 2023, pp. 153-158. (Best Paper Award)
+
+[5] Y. Zhang, Y. Xiao, Yuna Jiang and X. Ge, "A Hierarchical Blockchain Framework for Fog Computing-supported IoT Networks," 2020 IEEE 6th International Conference on Computer and Communications (ICCC), 2020, pp. 946-952. 
+
+[6] S. Ai, Yuna Jiang, S. Zheng, T. Han and X. Ge, "Revenue Analysis of Edge Computing Devices in Blockchain-Based IoT Networks," 2020 International Conference on Wireless Communications and Signal Processing (WCSP), 2020, pp. 68-73.
+
 
 Site-wide configuration
 ------
