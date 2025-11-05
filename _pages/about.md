@@ -92,4 +92,8 @@ IEEE Wireless Communications Magazine
 
 IEEE Transactions on Network Science and Engineering
 
+IEEE Transactions on Services Computing
+
+IEEE Transactions on Cognitive Communications and Networking
+
 
