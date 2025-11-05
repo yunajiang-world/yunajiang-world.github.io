@@ -23,7 +23,7 @@ repository               : "yunajiang-world/yunajiang-world.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Wechat.png"
+  avatar           : "wechat.png"
   name             : "Yuna Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Fighting"
