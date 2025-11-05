@@ -60,9 +60,13 @@ Publications:
 
 Teaching:
 ------
-[1] **Signal and System Analysis**, Nanjing University of Posts and Telecommunications, Lecture-2024/2025.
+[1] **Signal and System Analysis**, Nanjing University of Posts and Telecommunications,
 
-[2] **Mathematical Experiment**, Nanjing University of Posts and Telecommunications, Lecture-2025.
+Lecture-2024/2025.
+
+[2] **Mathematical Experiment**, Nanjing University of Posts and Telecommunications, 
+
+Lecture-2025.
 
 
 Services:
