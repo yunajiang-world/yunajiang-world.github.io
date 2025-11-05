@@ -18,7 +18,7 @@ Publications:
 ======
 Journal papers:
 ======
-[1] Yuna Jiang, J. Ye, L. Zhou, X. Ge, J. Kang and D. Niyato, "Multi-Modal Stream Integrity Transmission Strategy for Multi-User Wireless Metaverse," IEEE Transactions on Communications, vol. 73, no. 9, pp. 7122-7135, Sept. 2025. 
+[1] _Yuna Jiang_, J. Ye, L. Zhou, X. Ge, J. Kang and D. Niyato, "Multi-Modal Stream Integrity Transmission Strategy for Multi-User Wireless Metaverse," IEEE Transactions on Communications, vol. 73, no. 9, pp. 7122-7135, Sept. 2025. 
 
 [2] Yuna Jiang, J. Kang , X. Ge，D. Niyato, Z. Xiong, “QoE Analysis and Resource Allocation for Wireless Metaverse Services,” IEEE Transactions on Communications, vol. 71, no. 8, pp. 4735-4750, Aug. 2023. 
 
