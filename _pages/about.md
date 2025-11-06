@@ -9,7 +9,7 @@ redirect_from:
 
 I’m an assistant professor appointed by the president at Nanjing University of Posts and Telecommunications (NJUPT). I received the Ph.D. degree from Huazhong University of Science and Technology, Wuhan, China, in 2023 (Supervisor: Prof. Xiaohu Ge). I was a Visiting Ph.D. Student with the School of Computer Science and Engineering from 2021 to 2022, Nanyang Technological University, Singapore (Supervisor: Prof. Dusit Niyato). 
 
-My research interests include immersive communication, edge computing and wireless network resource allocation. I develop communication and computing resources scheduling optimization theory for immersive virtual-real interactions. The citation of my google scholar is 612, and the maximum number of citations for one article exceeded 153. One journal paper published on IEEE Transactions on Vehicular Technology is selected as the ESI Highly Cited Paper.
+My research interests include immersive communication, edge computing and wireless network resource allocation. I develop communication and computing resources scheduling optimization theory for immersive virtual-real interactions. The citation of my Google Scholar exceeds 612. One journal paper published on IEEE Transactions on Vehicular Technology is selected as the ESI Highly Cited Paper.
 
 
 
